@@ -1,0 +1,2154 @@
+{
+    "info": {
+        "fiber type": "G.652 (standard SMF)",
+        "wavelength": "1310 nm",
+        "location A": "Přerov-vdlážka",
+        "location B": "Přerov-šírava",
+        "pulse width": "100 ns",
+        "sample spacing": "0.00078125 usec",
+        "index": "1.466000",
+        "BC": "-79.40 dB",
+        "loss thr": "0.020 dB",
+        "refl thr": "-65.535 dB",
+        "EOT thr": "5.000 dB",
+        "datetime": 1380718439000,
+        "maxX": 8.0,
+        "maxY": 41.0,
+        "minY": 0.0,
+        "total loss": 5.171,
+        "ORL": 24.286,
+        "loss start": 0,
+        "loss end": 5.912189,
+        "ORL start": 0,
+        "ORL finish": 5.912189,
+        "range": 8.012124706205237
+    },
+    "eventList": [
+        {
+            "type": "1F9999LS {auto} reflection",
+            "distance": "0.000",
+            "slope": "0.000",
+            "splice loss": "0.000",
+            "refl loss": "-49.118",
+            "comments": " "
+        },
+        {
+            "type": "0F9999LS {auto} loss/drop/gain",
+            "distance": "1.010",
+            "slope": "0.334",
+            "splice loss": "0.310",
+            "refl loss": "0.000",
+            "comments": " "
+        },
+        {
+            "type": "1F9999LS {auto} reflection",
+            "distance": "1.104",
+            "slope": "0.641",
+            "splice loss": "0.604",
+            "refl loss": "-49.084",
+            "comments": " "
+        },
+        {
+            "type": "0F9999LS {auto} loss/drop/gain",
+            "distance": "1.243",
+            "slope": "0.482",
+            "splice loss": "0.095",
+            "refl loss": "0.000",
+            "comments": " "
+        },
+        {
+            "type": "1F9999LS {auto} reflection",
+            "distance": "1.620",
+            "slope": "0.318",
+            "splice loss": "0.250",
+            "refl loss": "-59.483",
+            "comments": " "
+        },
+        {
+            "type": "0F9999LS {auto} loss/drop/gain",
+            "distance": "2.532",
+            "slope": "0.314",
+            "splice loss": "0.056",
+            "refl loss": "0.000",
+            "comments": " "
+        },
+        {
+            "type": "0F9999LS {auto} loss/drop/gain",
+            "distance": "2.787",
+            "slope": "0.324",
+            "splice loss": "0.220",
+            "refl loss": "0.000",
+            "comments": " "
+        },
+        {
+            "type": "0F9999LS {auto} loss/drop/gain",
+            "distance": "2.942",
+            "slope": "0.343",
+            "splice loss": "-0.055",
+            "refl loss": "0.000",
+            "comments": " "
+        },
+        {
+            "type": "0F9999LS {auto} loss/drop/gain",
+            "distance": "3.411",
+            "slope": "0.337",
+            "splice loss": "0.092",
+            "refl loss": "0.000",
+            "comments": " "
+        },
+        {
+            "type": "0F9999LS {auto} loss/drop/gain",
+            "distance": "4.038",
+            "slope": "0.324",
+            "splice loss": "0.556",
+            "refl loss": "0.000",
+            "comments": " "
+        },
+        {
+            "type": "0F9999LS {auto} loss/drop/gain",
+            "distance": "4.435",
+            "slope": "0.350",
+            "splice loss": "0.473",
+            "refl loss": "0.000",
+            "comments": " "
+        },
+        {
+            "type": "0F9999LS {auto} loss/drop/gain",
+            "distance": "4.593",
+            "slope": "0.250",
+            "splice loss": "0.076",
+            "refl loss": "0.000",
+            "comments": " "
+        },
+        {
+            "type": "0F9999LS {auto} loss/drop/gain",
+            "distance": "4.915",
+            "slope": "0.261",
+            "splice loss": "0.539",
+            "refl loss": "0.000",
+            "comments": " "
+        },
+        {
+            "type": "1E9999LS {auto} reflection",
+            "distance": "5.912",
+            "slope": "0.326",
+            "splice loss": "0.000",
+            "refl loss": "-14.152",
+            "comments": " "
+        },
+        {
+            "type": "1F9999LS {auto} reflection",
+            "distance": "7.045",
+            "slope": "1.700",
+            "splice loss": "0.000",
+            "refl loss": "-56.623",
+            "comments": " "
+        }
+    ],
+    "pointList": [
+        {
+            "distance": 0,
+            "power": 28.085
+        },
+        {
+            "distance": 0.02,
+            "power": 31.37
+        },
+        {
+            "distance": 0.03,
+            "power": 29.41
+        },
+        {
+            "distance": 0.05,
+            "power": 27.77
+        },
+        {
+            "distance": 0.06,
+            "power": 27.71
+        },
+        {
+            "distance": 0.08,
+            "power": 27.69
+        },
+        {
+            "distance": 0.1,
+            "power": 27.69
+        },
+        {
+            "distance": 0.11,
+            "power": 27.68
+        },
+        {
+            "distance": 0.13,
+            "power": 27.68
+        },
+        {
+            "distance": 0.14,
+            "power": 27.67
+        },
+        {
+            "distance": 0.16,
+            "power": 27.66
+        },
+        {
+            "distance": 0.18,
+            "power": 27.67
+        },
+        {
+            "distance": 0.19,
+            "power": 27.66
+        },
+        {
+            "distance": 0.21,
+            "power": 27.64
+        },
+        {
+            "distance": 0.22,
+            "power": 27.65
+        },
+        {
+            "distance": 0.24,
+            "power": 27.65
+        },
+        {
+            "distance": 0.26,
+            "power": 27.65
+        },
+        {
+            "distance": 0.27,
+            "power": 27.65
+        },
+        {
+            "distance": 0.29,
+            "power": 27.63
+        },
+        {
+            "distance": 0.3,
+            "power": 27.62
+        },
+        {
+            "distance": 0.32,
+            "power": 27.61
+        },
+        {
+            "distance": 0.34,
+            "power": 27.62
+        },
+        {
+            "distance": 0.35,
+            "power": 27.6
+        },
+        {
+            "distance": 0.37,
+            "power": 27.59
+        },
+        {
+            "distance": 0.38,
+            "power": 27.59
+        },
+        {
+            "distance": 0.4,
+            "power": 27.59
+        },
+        {
+            "distance": 0.42,
+            "power": 27.58
+        },
+        {
+            "distance": 0.43,
+            "power": 27.59
+        },
+        {
+            "distance": 0.45,
+            "power": 27.57
+        },
+        {
+            "distance": 0.46,
+            "power": 27.57
+        },
+        {
+            "distance": 0.48,
+            "power": 27.56
+        },
+        {
+            "distance": 0.5,
+            "power": 27.55
+        },
+        {
+            "distance": 0.51,
+            "power": 27.55
+        },
+        {
+            "distance": 0.53,
+            "power": 27.55
+        },
+        {
+            "distance": 0.54,
+            "power": 27.53
+        },
+        {
+            "distance": 0.56,
+            "power": 27.53
+        },
+        {
+            "distance": 0.58,
+            "power": 27.53
+        },
+        {
+            "distance": 0.59,
+            "power": 27.51
+        },
+        {
+            "distance": 0.61,
+            "power": 27.52
+        },
+        {
+            "distance": 0.62,
+            "power": 27.51
+        },
+        {
+            "distance": 0.64,
+            "power": 27.51
+        },
+        {
+            "distance": 0.66,
+            "power": 27.5
+        },
+        {
+            "distance": 0.67,
+            "power": 27.5
+        },
+        {
+            "distance": 0.69,
+            "power": 27.49
+        },
+        {
+            "distance": 0.7,
+            "power": 27.49
+        },
+        {
+            "distance": 0.72,
+            "power": 27.47
+        },
+        {
+            "distance": 0.74,
+            "power": 27.49
+        },
+        {
+            "distance": 0.75,
+            "power": 27.47
+        },
+        {
+            "distance": 0.77,
+            "power": 27.46
+        },
+        {
+            "distance": 0.78,
+            "power": 27.46
+        },
+        {
+            "distance": 0.8,
+            "power": 27.45
+        },
+        {
+            "distance": 0.81,
+            "power": 27.46
+        },
+        {
+            "distance": 0.83,
+            "power": 27.45
+        },
+        {
+            "distance": 0.85,
+            "power": 27.44
+        },
+        {
+            "distance": 0.86,
+            "power": 27.43
+        },
+        {
+            "distance": 0.88,
+            "power": 27.43
+        },
+        {
+            "distance": 0.89,
+            "power": 27.43
+        },
+        {
+            "distance": 0.91,
+            "power": 27.41
+        },
+        {
+            "distance": 0.93,
+            "power": 27.4
+        },
+        {
+            "distance": 0.94,
+            "power": 27.41
+        },
+        {
+            "distance": 0.96,
+            "power": 27.41
+        },
+        {
+            "distance": 0.97,
+            "power": 27.4
+        },
+        {
+            "distance": 0.99,
+            "power": 27.39
+        },
+        {
+            "distance": 1.01,
+            "power": 27.38
+        },
+        {
+            "distance": 1.02,
+            "power": 27.31
+        },
+        {
+            "distance": 1.04,
+            "power": 27.07
+        },
+        {
+            "distance": 1.05,
+            "power": 27.05
+        },
+        {
+            "distance": 1.07,
+            "power": 27.04
+        },
+        {
+            "distance": 1.09,
+            "power": 27.03
+        },
+        {
+            "distance": 1.1,
+            "power": 27.01
+        },
+        {
+            "distance": 1.12,
+            "power": 30.52
+        },
+        {
+            "distance": 1.13,
+            "power": 28.37
+        },
+        {
+            "distance": 1.15,
+            "power": 26.45
+        },
+        {
+            "distance": 1.17,
+            "power": 26.37
+        },
+        {
+            "distance": 1.18,
+            "power": 26.36
+        },
+        {
+            "distance": 1.2,
+            "power": 26.35
+        },
+        {
+            "distance": 1.21,
+            "power": 26.34
+        },
+        {
+            "distance": 1.23,
+            "power": 26.34
+        },
+        {
+            "distance": 1.25,
+            "power": 26.35
+        },
+        {
+            "distance": 1.26,
+            "power": 26.27
+        },
+        {
+            "distance": 1.28,
+            "power": 26.23
+        },
+        {
+            "distance": 1.29,
+            "power": 26.21
+        },
+        {
+            "distance": 1.31,
+            "power": 26.21
+        },
+        {
+            "distance": 1.33,
+            "power": 26.22
+        },
+        {
+            "distance": 1.34,
+            "power": 26.21
+        },
+        {
+            "distance": 1.36,
+            "power": 26.2
+        },
+        {
+            "distance": 1.37,
+            "power": 26.19
+        },
+        {
+            "distance": 1.39,
+            "power": 26.18
+        },
+        {
+            "distance": 1.41,
+            "power": 26.19
+        },
+        {
+            "distance": 1.42,
+            "power": 26.19
+        },
+        {
+            "distance": 1.44,
+            "power": 26.17
+        },
+        {
+            "distance": 1.45,
+            "power": 26.18
+        },
+        {
+            "distance": 1.47,
+            "power": 26.16
+        },
+        {
+            "distance": 1.49,
+            "power": 26.15
+        },
+        {
+            "distance": 1.5,
+            "power": 26.15
+        },
+        {
+            "distance": 1.52,
+            "power": 26.14
+        },
+        {
+            "distance": 1.53,
+            "power": 26.14
+        },
+        {
+            "distance": 1.55,
+            "power": 26.14
+        },
+        {
+            "distance": 1.57,
+            "power": 26.13
+        },
+        {
+            "distance": 1.58,
+            "power": 26.12
+        },
+        {
+            "distance": 1.6,
+            "power": 26.12
+        },
+        {
+            "distance": 1.61,
+            "power": 26.12
+        },
+        {
+            "distance": 1.63,
+            "power": 26.41
+        },
+        {
+            "distance": 1.65,
+            "power": 26.88
+        },
+        {
+            "distance": 1.66,
+            "power": 25.9
+        },
+        {
+            "distance": 1.68,
+            "power": 25.84
+        },
+        {
+            "distance": 1.69,
+            "power": 25.85
+        },
+        {
+            "distance": 1.71,
+            "power": 25.83
+        },
+        {
+            "distance": 1.73,
+            "power": 25.82
+        },
+        {
+            "distance": 1.74,
+            "power": 25.83
+        },
+        {
+            "distance": 1.76,
+            "power": 25.83
+        },
+        {
+            "distance": 1.77,
+            "power": 25.82
+        },
+        {
+            "distance": 1.79,
+            "power": 25.81
+        },
+        {
+            "distance": 1.81,
+            "power": 25.81
+        },
+        {
+            "distance": 1.82,
+            "power": 25.8
+        },
+        {
+            "distance": 1.84,
+            "power": 25.8
+        },
+        {
+            "distance": 1.85,
+            "power": 25.79
+        },
+        {
+            "distance": 1.87,
+            "power": 25.79
+        },
+        {
+            "distance": 1.89,
+            "power": 25.77
+        },
+        {
+            "distance": 1.9,
+            "power": 25.77
+        },
+        {
+            "distance": 1.92,
+            "power": 25.76
+        },
+        {
+            "distance": 1.93,
+            "power": 25.76
+        },
+        {
+            "distance": 1.95,
+            "power": 25.76
+        },
+        {
+            "distance": 1.97,
+            "power": 25.75
+        },
+        {
+            "distance": 1.98,
+            "power": 25.74
+        },
+        {
+            "distance": 2,
+            "power": 25.74
+        },
+        {
+            "distance": 2.01,
+            "power": 25.74
+        },
+        {
+            "distance": 2.03,
+            "power": 25.73
+        },
+        {
+            "distance": 2.05,
+            "power": 25.73
+        },
+        {
+            "distance": 2.06,
+            "power": 25.71
+        },
+        {
+            "distance": 2.08,
+            "power": 25.72
+        },
+        {
+            "distance": 2.09,
+            "power": 25.71
+        },
+        {
+            "distance": 2.11,
+            "power": 25.71
+        },
+        {
+            "distance": 2.13,
+            "power": 25.69
+        },
+        {
+            "distance": 2.14,
+            "power": 25.69
+        },
+        {
+            "distance": 2.16,
+            "power": 25.69
+        },
+        {
+            "distance": 2.17,
+            "power": 25.68
+        },
+        {
+            "distance": 2.19,
+            "power": 25.67
+        },
+        {
+            "distance": 2.2,
+            "power": 25.67
+        },
+        {
+            "distance": 2.22,
+            "power": 25.68
+        },
+        {
+            "distance": 2.24,
+            "power": 25.66
+        },
+        {
+            "distance": 2.25,
+            "power": 25.65
+        },
+        {
+            "distance": 2.27,
+            "power": 25.65
+        },
+        {
+            "distance": 2.28,
+            "power": 25.65
+        },
+        {
+            "distance": 2.3,
+            "power": 25.64
+        },
+        {
+            "distance": 2.32,
+            "power": 25.63
+        },
+        {
+            "distance": 2.33,
+            "power": 25.64
+        },
+        {
+            "distance": 2.35,
+            "power": 25.64
+        },
+        {
+            "distance": 2.36,
+            "power": 25.61
+        },
+        {
+            "distance": 2.38,
+            "power": 25.62
+        },
+        {
+            "distance": 2.4,
+            "power": 25.62
+        },
+        {
+            "distance": 2.41,
+            "power": 25.61
+        },
+        {
+            "distance": 2.43,
+            "power": 25.61
+        },
+        {
+            "distance": 2.44,
+            "power": 25.6
+        },
+        {
+            "distance": 2.46,
+            "power": 25.59
+        },
+        {
+            "distance": 2.48,
+            "power": 25.59
+        },
+        {
+            "distance": 2.49,
+            "power": 25.59
+        },
+        {
+            "distance": 2.51,
+            "power": 25.6
+        },
+        {
+            "distance": 2.52,
+            "power": 25.61
+        },
+        {
+            "distance": 2.54,
+            "power": 25.56
+        },
+        {
+            "distance": 2.56,
+            "power": 25.53
+        },
+        {
+            "distance": 2.57,
+            "power": 25.5
+        },
+        {
+            "distance": 2.59,
+            "power": 25.49
+        },
+        {
+            "distance": 2.6,
+            "power": 25.5
+        },
+        {
+            "distance": 2.62,
+            "power": 25.49
+        },
+        {
+            "distance": 2.64,
+            "power": 25.48
+        },
+        {
+            "distance": 2.65,
+            "power": 25.47
+        },
+        {
+            "distance": 2.67,
+            "power": 25.47
+        },
+        {
+            "distance": 2.68,
+            "power": 25.46
+        },
+        {
+            "distance": 2.7,
+            "power": 25.46
+        },
+        {
+            "distance": 2.72,
+            "power": 25.46
+        },
+        {
+            "distance": 2.73,
+            "power": 25.45
+        },
+        {
+            "distance": 2.75,
+            "power": 25.45
+        },
+        {
+            "distance": 2.76,
+            "power": 25.45
+        },
+        {
+            "distance": 2.78,
+            "power": 25.43
+        },
+        {
+            "distance": 2.8,
+            "power": 25.4
+        },
+        {
+            "distance": 2.81,
+            "power": 25.23
+        },
+        {
+            "distance": 2.83,
+            "power": 25.2
+        },
+        {
+            "distance": 2.84,
+            "power": 25.18
+        },
+        {
+            "distance": 2.86,
+            "power": 25.19
+        },
+        {
+            "distance": 2.88,
+            "power": 25.18
+        },
+        {
+            "distance": 2.89,
+            "power": 25.17
+        },
+        {
+            "distance": 2.91,
+            "power": 25.18
+        },
+        {
+            "distance": 2.92,
+            "power": 25.16
+        },
+        {
+            "distance": 2.94,
+            "power": 25.15
+        },
+        {
+            "distance": 2.96,
+            "power": 25.18
+        },
+        {
+            "distance": 2.97,
+            "power": 25.2
+        },
+        {
+            "distance": 2.99,
+            "power": 25.2
+        },
+        {
+            "distance": 3,
+            "power": 25.18
+        },
+        {
+            "distance": 3.02,
+            "power": 25.19
+        },
+        {
+            "distance": 3.04,
+            "power": 25.19
+        },
+        {
+            "distance": 3.05,
+            "power": 25.19
+        },
+        {
+            "distance": 3.07,
+            "power": 25.16
+        },
+        {
+            "distance": 3.08,
+            "power": 25.16
+        },
+        {
+            "distance": 3.1,
+            "power": 25.16
+        },
+        {
+            "distance": 3.12,
+            "power": 25.15
+        },
+        {
+            "distance": 3.13,
+            "power": 25.14
+        },
+        {
+            "distance": 3.15,
+            "power": 25.15
+        },
+        {
+            "distance": 3.16,
+            "power": 25.13
+        },
+        {
+            "distance": 3.18,
+            "power": 25.14
+        },
+        {
+            "distance": 3.2,
+            "power": 25.14
+        },
+        {
+            "distance": 3.21,
+            "power": 25.13
+        },
+        {
+            "distance": 3.23,
+            "power": 25.11
+        },
+        {
+            "distance": 3.24,
+            "power": 25.1
+        },
+        {
+            "distance": 3.26,
+            "power": 25.1
+        },
+        {
+            "distance": 3.28,
+            "power": 25.1
+        },
+        {
+            "distance": 3.29,
+            "power": 25.09
+        },
+        {
+            "distance": 3.31,
+            "power": 25.09
+        },
+        {
+            "distance": 3.32,
+            "power": 25.08
+        },
+        {
+            "distance": 3.34,
+            "power": 25.07
+        },
+        {
+            "distance": 3.36,
+            "power": 25.07
+        },
+        {
+            "distance": 3.37,
+            "power": 25.06
+        },
+        {
+            "distance": 3.39,
+            "power": 25.07
+        },
+        {
+            "distance": 3.4,
+            "power": 25.06
+        },
+        {
+            "distance": 3.42,
+            "power": 25.05
+        },
+        {
+            "distance": 3.44,
+            "power": 24.99
+        },
+        {
+            "distance": 3.45,
+            "power": 24.95
+        },
+        {
+            "distance": 3.47,
+            "power": 24.96
+        },
+        {
+            "distance": 3.48,
+            "power": 24.94
+        },
+        {
+            "distance": 3.5,
+            "power": 24.94
+        },
+        {
+            "distance": 3.51,
+            "power": 24.92
+        },
+        {
+            "distance": 3.53,
+            "power": 24.91
+        },
+        {
+            "distance": 3.55,
+            "power": 24.9
+        },
+        {
+            "distance": 3.56,
+            "power": 24.9
+        },
+        {
+            "distance": 3.58,
+            "power": 24.9
+        },
+        {
+            "distance": 3.59,
+            "power": 24.9
+        },
+        {
+            "distance": 3.61,
+            "power": 24.89
+        },
+        {
+            "distance": 3.63,
+            "power": 24.89
+        },
+        {
+            "distance": 3.64,
+            "power": 24.89
+        },
+        {
+            "distance": 3.66,
+            "power": 24.89
+        },
+        {
+            "distance": 3.67,
+            "power": 24.88
+        },
+        {
+            "distance": 3.69,
+            "power": 24.87
+        },
+        {
+            "distance": 3.71,
+            "power": 24.87
+        },
+        {
+            "distance": 3.72,
+            "power": 24.85
+        },
+        {
+            "distance": 3.74,
+            "power": 24.85
+        },
+        {
+            "distance": 3.75,
+            "power": 24.84
+        },
+        {
+            "distance": 3.77,
+            "power": 24.83
+        },
+        {
+            "distance": 3.79,
+            "power": 24.84
+        },
+        {
+            "distance": 3.8,
+            "power": 24.83
+        },
+        {
+            "distance": 3.82,
+            "power": 24.82
+        },
+        {
+            "distance": 3.83,
+            "power": 24.83
+        },
+        {
+            "distance": 3.85,
+            "power": 24.8
+        },
+        {
+            "distance": 3.87,
+            "power": 24.81
+        },
+        {
+            "distance": 3.88,
+            "power": 24.8
+        },
+        {
+            "distance": 3.9,
+            "power": 24.79
+        },
+        {
+            "distance": 3.91,
+            "power": 24.81
+        },
+        {
+            "distance": 3.93,
+            "power": 24.8
+        },
+        {
+            "distance": 3.95,
+            "power": 24.79
+        },
+        {
+            "distance": 3.96,
+            "power": 24.78
+        },
+        {
+            "distance": 3.98,
+            "power": 24.77
+        },
+        {
+            "distance": 3.99,
+            "power": 24.77
+        },
+        {
+            "distance": 4.01,
+            "power": 24.76
+        },
+        {
+            "distance": 4.03,
+            "power": 24.76
+        },
+        {
+            "distance": 4.04,
+            "power": 24.75
+        },
+        {
+            "distance": 4.06,
+            "power": 24.61
+        },
+        {
+            "distance": 4.07,
+            "power": 24.22
+        },
+        {
+            "distance": 4.09,
+            "power": 24.18
+        },
+        {
+            "distance": 4.11,
+            "power": 24.16
+        },
+        {
+            "distance": 4.12,
+            "power": 24.16
+        },
+        {
+            "distance": 4.14,
+            "power": 24.16
+        },
+        {
+            "distance": 4.15,
+            "power": 24.16
+        },
+        {
+            "distance": 4.17,
+            "power": 24.15
+        },
+        {
+            "distance": 4.19,
+            "power": 24.14
+        },
+        {
+            "distance": 4.2,
+            "power": 24.13
+        },
+        {
+            "distance": 4.22,
+            "power": 24.13
+        },
+        {
+            "distance": 4.23,
+            "power": 24.13
+        },
+        {
+            "distance": 4.25,
+            "power": 24.13
+        },
+        {
+            "distance": 4.27,
+            "power": 24.1
+        },
+        {
+            "distance": 4.28,
+            "power": 24.1
+        },
+        {
+            "distance": 4.3,
+            "power": 24.1
+        },
+        {
+            "distance": 4.31,
+            "power": 24.1
+        },
+        {
+            "distance": 4.33,
+            "power": 24.09
+        },
+        {
+            "distance": 4.35,
+            "power": 24.09
+        },
+        {
+            "distance": 4.36,
+            "power": 24.08
+        },
+        {
+            "distance": 4.38,
+            "power": 24.08
+        },
+        {
+            "distance": 4.39,
+            "power": 24.06
+        },
+        {
+            "distance": 4.41,
+            "power": 24.06
+        },
+        {
+            "distance": 4.43,
+            "power": 24.06
+        },
+        {
+            "distance": 4.44,
+            "power": 24.05
+        },
+        {
+            "distance": 4.46,
+            "power": 24.02
+        },
+        {
+            "distance": 4.47,
+            "power": 23.77
+        },
+        {
+            "distance": 4.49,
+            "power": 23.58
+        },
+        {
+            "distance": 4.51,
+            "power": 23.56
+        },
+        {
+            "distance": 4.52,
+            "power": 23.55
+        },
+        {
+            "distance": 4.54,
+            "power": 23.55
+        },
+        {
+            "distance": 4.55,
+            "power": 23.55
+        },
+        {
+            "distance": 4.57,
+            "power": 23.56
+        },
+        {
+            "distance": 4.59,
+            "power": 23.54
+        },
+        {
+            "distance": 4.6,
+            "power": 23.54
+        },
+        {
+            "distance": 4.62,
+            "power": 23.5
+        },
+        {
+            "distance": 4.63,
+            "power": 23.44
+        },
+        {
+            "distance": 4.65,
+            "power": 23.42
+        },
+        {
+            "distance": 4.67,
+            "power": 23.42
+        },
+        {
+            "distance": 4.68,
+            "power": 23.42
+        },
+        {
+            "distance": 4.7,
+            "power": 23.41
+        },
+        {
+            "distance": 4.71,
+            "power": 23.41
+        },
+        {
+            "distance": 4.73,
+            "power": 23.45
+        },
+        {
+            "distance": 4.75,
+            "power": 23.45
+        },
+        {
+            "distance": 4.76,
+            "power": 23.44
+        },
+        {
+            "distance": 4.78,
+            "power": 23.44
+        },
+        {
+            "distance": 4.79,
+            "power": 23.42
+        },
+        {
+            "distance": 4.81,
+            "power": 23.41
+        },
+        {
+            "distance": 4.83,
+            "power": 23.37
+        },
+        {
+            "distance": 4.84,
+            "power": 23.36
+        },
+        {
+            "distance": 4.86,
+            "power": 23.38
+        },
+        {
+            "distance": 4.87,
+            "power": 23.37
+        },
+        {
+            "distance": 4.89,
+            "power": 23.38
+        },
+        {
+            "distance": 4.9,
+            "power": 23.37
+        },
+        {
+            "distance": 4.92,
+            "power": 23.39
+        },
+        {
+            "distance": 4.94,
+            "power": 23.22
+        },
+        {
+            "distance": 4.95,
+            "power": 22.83
+        },
+        {
+            "distance": 4.97,
+            "power": 22.81
+        },
+        {
+            "distance": 4.98,
+            "power": 22.8
+        },
+        {
+            "distance": 5,
+            "power": 22.8
+        },
+        {
+            "distance": 5.02,
+            "power": 22.79
+        },
+        {
+            "distance": 5.03,
+            "power": 22.78
+        },
+        {
+            "distance": 5.05,
+            "power": 22.79
+        },
+        {
+            "distance": 5.06,
+            "power": 22.79
+        },
+        {
+            "distance": 5.08,
+            "power": 22.78
+        },
+        {
+            "distance": 5.1,
+            "power": 22.77
+        },
+        {
+            "distance": 5.11,
+            "power": 22.75
+        },
+        {
+            "distance": 5.13,
+            "power": 22.76
+        },
+        {
+            "distance": 5.14,
+            "power": 22.76
+        },
+        {
+            "distance": 5.16,
+            "power": 22.75
+        },
+        {
+            "distance": 5.18,
+            "power": 22.73
+        },
+        {
+            "distance": 5.19,
+            "power": 22.73
+        },
+        {
+            "distance": 5.21,
+            "power": 22.73
+        },
+        {
+            "distance": 5.22,
+            "power": 22.73
+        },
+        {
+            "distance": 5.24,
+            "power": 22.72
+        },
+        {
+            "distance": 5.26,
+            "power": 22.71
+        },
+        {
+            "distance": 5.27,
+            "power": 22.71
+        },
+        {
+            "distance": 5.29,
+            "power": 22.69
+        },
+        {
+            "distance": 5.3,
+            "power": 22.7
+        },
+        {
+            "distance": 5.32,
+            "power": 22.7
+        },
+        {
+            "distance": 5.34,
+            "power": 22.69
+        },
+        {
+            "distance": 5.35,
+            "power": 22.68
+        },
+        {
+            "distance": 5.37,
+            "power": 22.68
+        },
+        {
+            "distance": 5.38,
+            "power": 22.68
+        },
+        {
+            "distance": 5.4,
+            "power": 22.67
+        },
+        {
+            "distance": 5.42,
+            "power": 22.65
+        },
+        {
+            "distance": 5.43,
+            "power": 22.65
+        },
+        {
+            "distance": 5.45,
+            "power": 22.67
+        },
+        {
+            "distance": 5.46,
+            "power": 22.66
+        },
+        {
+            "distance": 5.48,
+            "power": 22.66
+        },
+        {
+            "distance": 5.5,
+            "power": 22.64
+        },
+        {
+            "distance": 5.51,
+            "power": 22.64
+        },
+        {
+            "distance": 5.53,
+            "power": 22.63
+        },
+        {
+            "distance": 5.54,
+            "power": 22.61
+        },
+        {
+            "distance": 5.56,
+            "power": 22.61
+        },
+        {
+            "distance": 5.58,
+            "power": 22.61
+        },
+        {
+            "distance": 5.59,
+            "power": 22.6
+        },
+        {
+            "distance": 5.61,
+            "power": 22.59
+        },
+        {
+            "distance": 5.62,
+            "power": 22.59
+        },
+        {
+            "distance": 5.64,
+            "power": 22.59
+        },
+        {
+            "distance": 5.66,
+            "power": 22.58
+        },
+        {
+            "distance": 5.67,
+            "power": 22.57
+        },
+        {
+            "distance": 5.69,
+            "power": 22.56
+        },
+        {
+            "distance": 5.7,
+            "power": 22.57
+        },
+        {
+            "distance": 5.72,
+            "power": 22.56
+        },
+        {
+            "distance": 5.74,
+            "power": 22.56
+        },
+        {
+            "distance": 5.75,
+            "power": 22.56
+        },
+        {
+            "distance": 5.77,
+            "power": 22.55
+        },
+        {
+            "distance": 5.78,
+            "power": 22.55
+        },
+        {
+            "distance": 5.8,
+            "power": 22.53
+        },
+        {
+            "distance": 5.82,
+            "power": 22.53
+        },
+        {
+            "distance": 5.83,
+            "power": 22.53
+        },
+        {
+            "distance": 5.85,
+            "power": 22.52
+        },
+        {
+            "distance": 5.86,
+            "power": 22.52
+        },
+        {
+            "distance": 5.88,
+            "power": 22.51
+        },
+        {
+            "distance": 5.9,
+            "power": 22.51
+        },
+        {
+            "distance": 5.91,
+            "power": 22.49
+        },
+        {
+            "distance": 5.93,
+            "power": 40.71
+        },
+        {
+            "distance": 5.94,
+            "power": 30.68
+        },
+        {
+            "distance": 5.96,
+            "power": 24.15
+        },
+        {
+            "distance": 5.98,
+            "power": 20.54
+        },
+        {
+            "distance": 5.99,
+            "power": 18.06
+        },
+        {
+            "distance": 6.01,
+            "power": 16.6
+        },
+        {
+            "distance": 6.02,
+            "power": 15.79
+        },
+        {
+            "distance": 6.04,
+            "power": 15.26
+        },
+        {
+            "distance": 6.06,
+            "power": 14.86
+        },
+        {
+            "distance": 6.07,
+            "power": 14.52
+        },
+        {
+            "distance": 6.09,
+            "power": 14.22
+        },
+        {
+            "distance": 6.1,
+            "power": 13.94
+        },
+        {
+            "distance": 6.12,
+            "power": 13.7
+        },
+        {
+            "distance": 6.14,
+            "power": 13.43
+        },
+        {
+            "distance": 6.15,
+            "power": 13.2
+        },
+        {
+            "distance": 6.17,
+            "power": 13.07
+        },
+        {
+            "distance": 6.18,
+            "power": 12.87
+        },
+        {
+            "distance": 6.2,
+            "power": 12.73
+        },
+        {
+            "distance": 6.21,
+            "power": 12.51
+        },
+        {
+            "distance": 6.23,
+            "power": 12.31
+        },
+        {
+            "distance": 6.25,
+            "power": 12.17
+        },
+        {
+            "distance": 6.26,
+            "power": 12.05
+        },
+        {
+            "distance": 6.28,
+            "power": 11.92
+        },
+        {
+            "distance": 6.29,
+            "power": 11.8
+        },
+        {
+            "distance": 6.31,
+            "power": 11.61
+        },
+        {
+            "distance": 6.33,
+            "power": 11.48
+        },
+        {
+            "distance": 6.34,
+            "power": 11.43
+        },
+        {
+            "distance": 6.36,
+            "power": 11.31
+        },
+        {
+            "distance": 6.37,
+            "power": 11.15
+        },
+        {
+            "distance": 6.39,
+            "power": 11.06
+        },
+        {
+            "distance": 6.41,
+            "power": 10.99
+        },
+        {
+            "distance": 6.42,
+            "power": 10.85
+        },
+        {
+            "distance": 6.44,
+            "power": 10.74
+        },
+        {
+            "distance": 6.45,
+            "power": 10.63
+        },
+        {
+            "distance": 6.47,
+            "power": 10.51
+        },
+        {
+            "distance": 6.49,
+            "power": 10.39
+        },
+        {
+            "distance": 6.5,
+            "power": 10.2
+        },
+        {
+            "distance": 6.52,
+            "power": 10.33
+        },
+        {
+            "distance": 6.53,
+            "power": 10.13
+        },
+        {
+            "distance": 6.55,
+            "power": 10.13
+        },
+        {
+            "distance": 6.57,
+            "power": 9.83
+        },
+        {
+            "distance": 6.58,
+            "power": 9.88
+        },
+        {
+            "distance": 6.6,
+            "power": 9.68
+        },
+        {
+            "distance": 6.61,
+            "power": 9.74
+        },
+        {
+            "distance": 6.63,
+            "power": 9.6
+        },
+        {
+            "distance": 6.65,
+            "power": 9.67
+        },
+        {
+            "distance": 6.66,
+            "power": 9.5
+        },
+        {
+            "distance": 6.68,
+            "power": 9.49
+        },
+        {
+            "distance": 6.69,
+            "power": 9.27
+        },
+        {
+            "distance": 6.71,
+            "power": 9.3
+        },
+        {
+            "distance": 6.73,
+            "power": 9.21
+        },
+        {
+            "distance": 6.74,
+            "power": 9.2
+        },
+        {
+            "distance": 6.76,
+            "power": 9.18
+        },
+        {
+            "distance": 6.77,
+            "power": 8.89
+        },
+        {
+            "distance": 6.79,
+            "power": 9.08
+        },
+        {
+            "distance": 6.81,
+            "power": 9
+        },
+        {
+            "distance": 6.82,
+            "power": 8.89
+        },
+        {
+            "distance": 6.84,
+            "power": 8.5
+        },
+        {
+            "distance": 6.85,
+            "power": 9.02
+        },
+        {
+            "distance": 6.87,
+            "power": 8.99
+        },
+        {
+            "distance": 6.89,
+            "power": 8.68
+        },
+        {
+            "distance": 6.9,
+            "power": 8.85
+        },
+        {
+            "distance": 6.92,
+            "power": 8.49
+        },
+        {
+            "distance": 6.93,
+            "power": 8.6
+        },
+        {
+            "distance": 6.95,
+            "power": 8.27
+        },
+        {
+            "distance": 6.97,
+            "power": 8.64
+        },
+        {
+            "distance": 6.98,
+            "power": 8.18
+        },
+        {
+            "distance": 7,
+            "power": 8.21
+        },
+        {
+            "distance": 7.01,
+            "power": 8.45
+        },
+        {
+            "distance": 7.03,
+            "power": 8.37
+        },
+        {
+            "distance": 7.05,
+            "power": 8.6
+        },
+        {
+            "distance": 7.06,
+            "power": 9.75
+        },
+        {
+            "distance": 7.08,
+            "power": 8.06
+        },
+        {
+            "distance": 7.09,
+            "power": 7.58
+        },
+        {
+            "distance": 7.11,
+            "power": 7.91
+        },
+        {
+            "distance": 7.13,
+            "power": 8.21
+        },
+        {
+            "distance": 7.14,
+            "power": 7.9
+        },
+        {
+            "distance": 7.16,
+            "power": 7.85
+        },
+        {
+            "distance": 7.17,
+            "power": 7.76
+        },
+        {
+            "distance": 7.19,
+            "power": 7.84
+        },
+        {
+            "distance": 7.21,
+            "power": 7.59
+        },
+        {
+            "distance": 7.22,
+            "power": 7.81
+        },
+        {
+            "distance": 7.24,
+            "power": 7.4
+        },
+        {
+            "distance": 7.25,
+            "power": 7.53
+        },
+        {
+            "distance": 7.27,
+            "power": 7.63
+        },
+        {
+            "distance": 7.29,
+            "power": 7.4
+        },
+        {
+            "distance": 7.3,
+            "power": 7.88
+        },
+        {
+            "distance": 7.32,
+            "power": 7.25
+        },
+        {
+            "distance": 7.33,
+            "power": 7.81
+        },
+        {
+            "distance": 7.35,
+            "power": 7.51
+        },
+        {
+            "distance": 7.37,
+            "power": 7.52
+        },
+        {
+            "distance": 7.38,
+            "power": 7.29
+        },
+        {
+            "distance": 7.4,
+            "power": 7.78
+        },
+        {
+            "distance": 7.41,
+            "power": 7.13
+        },
+        {
+            "distance": 7.43,
+            "power": 7.38
+        },
+        {
+            "distance": 7.45,
+            "power": 7.4
+        },
+        {
+            "distance": 7.46,
+            "power": 6.88
+        },
+        {
+            "distance": 7.48,
+            "power": 6.48
+        },
+        {
+            "distance": 7.49,
+            "power": 6.52
+        },
+        {
+            "distance": 7.51,
+            "power": 7.02
+        },
+        {
+            "distance": 7.53,
+            "power": 6.98
+        },
+        {
+            "distance": 7.54,
+            "power": 6.4
+        },
+        {
+            "distance": 7.56,
+            "power": 6.94
+        },
+        {
+            "distance": 7.57,
+            "power": 6.5
+        },
+        {
+            "distance": 7.59,
+            "power": 7.44
+        },
+        {
+            "distance": 7.6,
+            "power": 6.04
+        },
+        {
+            "distance": 7.62,
+            "power": 6.98
+        },
+        {
+            "distance": 7.64,
+            "power": 5.52
+        },
+        {
+            "distance": 7.65,
+            "power": 7.28
+        },
+        {
+            "distance": 7.67,
+            "power": 6.78
+        },
+        {
+            "distance": 7.68,
+            "power": 6.58
+        },
+        {
+            "distance": 7.7,
+            "power": 6.65
+        },
+        {
+            "distance": 7.72,
+            "power": 6.66
+        },
+        {
+            "distance": 7.73,
+            "power": 6.47
+        },
+        {
+            "distance": 7.75,
+            "power": 5.97
+        },
+        {
+            "distance": 7.76,
+            "power": 6.06
+        },
+        {
+            "distance": 7.78,
+            "power": 6.28
+        },
+        {
+            "distance": 7.8,
+            "power": 6.86
+        },
+        {
+            "distance": 7.81,
+            "power": 6.59
+        },
+        {
+            "distance": 7.83,
+            "power": 6.86
+        },
+        {
+            "distance": 7.84,
+            "power": 6.43
+        },
+        {
+            "distance": 7.86,
+            "power": 6.87
+        },
+        {
+            "distance": 7.88,
+            "power": 6.33
+        },
+        {
+            "distance": 7.89,
+            "power": 6.13
+        },
+        {
+            "distance": 7.91,
+            "power": 6.86
+        },
+        {
+            "distance": 7.92,
+            "power": 5.41
+        },
+        {
+            "distance": 7.94,
+            "power": 6.73
+        },
+        {
+            "distance": 7.96,
+            "power": 5.5
+        },
+        {
+            "distance": 7.97,
+            "power": 5.71
+        },
+        {
+            "distance": 7.99,
+            "power": 5.9
+        }
+    ]
+}
